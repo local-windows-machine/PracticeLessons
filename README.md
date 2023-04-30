@@ -1,6 +1,7 @@
 # PracticeLessons
 ### This is a DotNet 6 console application
 <p><strong>Note:</strong> We do not need to specify using statements for System classes</p>
+
 ##### To be able to run this application make sure you have DotNet 6 sdk and VisualStudio 2022 installed.
 
 
